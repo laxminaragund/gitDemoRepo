@@ -6,6 +6,9 @@ public class MainClass {
 	{
 		GitDemo demo=new GitDemo();
 		demo.display();
+		System.out.println("code changing");
+		System.out.println("code1 changing");
+
 	}
 
 }
